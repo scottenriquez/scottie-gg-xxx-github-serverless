@@ -1,0 +1,19 @@
+{
+  "name": "scottie-gg-xxx-github-serverless",
+  "version": "1.0.0",
+  "description": "AWS Lambda function for fetching my public GitHub repos",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/scottenriquez/scottie-gg-xxx-github-serverless.git"
+  },
+  "author": "Scott Enriquez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/scottenriquez/scottie-gg-xxx-github-serverless/issues"
+  },
+  "homepage": "https://github.com/scottenriquez/scottie-gg-xxx-github-serverless#readme"
+}
