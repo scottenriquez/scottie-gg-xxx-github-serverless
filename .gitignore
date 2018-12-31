@@ -62,3 +62,6 @@ typings/
 
 # WebStorm
 .idea
+
+# ZIP files (Lambda build artifacts)
+*.zip
